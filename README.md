@@ -31,4 +31,25 @@
 
 ## Screenshots/Documentations
 
+During Analysis
+- Sal by Role Type
+![Image]()
+
+- Sal by Size
+![Image]()
+  
+- Sal by State
+![Image]()
+
+- Sector by Size 
+![Image]()
+- Sector by Salary
+![Image]()
+### Dashboard 
+![Image]()
+![Image]()
+
+### Map 
+![Image]()
+
 
