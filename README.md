@@ -34,20 +34,16 @@
 During Analysis
 - Sal by Role Type
 ![Image](https://github.com/justine09902/Lab-Task-3/blob/main/Images/ROLE%20TYPE.PNG)
-
 - Sal by Size
 ![Image](https://github.com/justine09902/Lab-Task-3/blob/main/Images/SIZE.PNG)
-  
 - Sal by State
 ![Image](https://github.com/justine09902/Lab-Task-3/blob/main/Images/STATES.PNG)
-
 - Sector by Size 
 ![Image](https://github.com/justine09902/Lab-Task-3/blob/main/Images/sectore%20size.PNG)
 - Sector by Salary
 ![Image](https://github.com/justine09902/Lab-Task-3/blob/main/Images/SECTOR%20SALARY.PNG****)
 ### Dashboard 
-![Image]()
-![Image]()
+![Image](https://github.com/justine09902/Lab-Task-3/blob/main/Images/dashboard.PNG)
 
 ### Map 
 ![Image]()
