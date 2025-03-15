@@ -44,7 +44,7 @@ During Analysis
 - Sector by Size 
 ![Image](https://github.com/justine09902/Lab-Task-3/blob/main/Images/sectore%20size.PNG)
 - Sector by Salary
-![Image]()
+![Image](https://github.com/justine09902/Lab-Task-3/blob/main/Images/SECTOR%20SALARY.PNG****)
 ### Dashboard 
 ![Image]()
 ![Image]()
