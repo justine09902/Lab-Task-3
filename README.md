@@ -33,7 +33,7 @@
 
 During Analysis
 - Sal by Role Type
-![Image]()
+![Image](https://github.com/justine09902/Lab-Task-3/blob/main/Images/ROLE%20TYPE.PNG)
 
 - Sal by Size
 ![Image]()
