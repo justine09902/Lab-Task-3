@@ -39,7 +39,7 @@ During Analysis
 ![Image](https://github.com/justine09902/Lab-Task-3/blob/main/Images/SIZE.PNG)
   
 - Sal by State
-![Image]()
+![Image](https://github.com/justine09902/Lab-Task-3/blob/main/Images/STATES.PNG)
 
 - Sector by Size 
 ![Image]()
