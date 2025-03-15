@@ -45,7 +45,6 @@ During Analysis
 ### Dashboard 
 ![Image](https://github.com/justine09902/Lab-Task-3/blob/main/Images/dashboard.PNG)
 
-### Map 
-![Image]()
+
 
 
